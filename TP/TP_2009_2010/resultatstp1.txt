@@ -1,0 +1,1452 @@
+Requêtes simples
+R1
+1 	BALZAC 	Honoré de 	française
+2 	BOILEAU 	Pierre 	française
+3 	VILLON 	François 	française
+4 	MACHIAVEL 	Nicolas 	italienne
+5 	RABELAIS 	François 	française
+6 	du BELLAY 	Joachim 	française
+7 	MONTAIGNE 	Michel de 	française
+8 	RONSARD 	Pierre de 	française
+9 	CORNEILLE 	Pierre 	française
+10 	DESCARTES 	René 	française
+11 	LA FONTAINE 	Jean de 	française
+12 	PASCAL 	Blaise 	française
+13 	RACINE 	Jean 	française
+14 	VIVALDI 	Antonio 	italienne
+16 	RAMEAU 	Jean-Philippe 	française
+17 	ROUSSEAU 	Jean-Jacques 	française
+19 	LAMARTINE 	Alphonse de 	française
+20 	ALLEN 	François-René 	française
+21 	HUGO 	Victor 	française
+23 	GAUTIER 	Théophile 	française
+24 	MAUPASSANT 	Guy de 	française
+25 	RIMBAUD 	Arthur 	française
+26 	VERNE 	Jules 	française
+27 	ALLEN 	Emile 	française
+28 	APOLLINAIRE 	Guillaume 	française
+29 	PEGUY 	Charles 	française
+30 	VALERY 	Paul 	française
+31 	ARAGON 	Louis 	française
+32 	ELUARD 	Paul 	française
+33 	COCTEAU 	Jean 	française
+34 	PAGNOL 	Marcel 	française
+35 	ROMAINS 	Jules 	française
+36 	MALRAUX 	André 	française
+37 	PREVERT 	Jacques 	française
+38 	MERLE 	Robert 	française
+39 	TOLKIEN 	John Ronald Reuel 	britannique
+40 	YOURCENAR 	Marguerite 	française
+41 	CAROLL 	Lewis 	britannique
+42 	BACH 	Jean-Sebastien 	allemande
+43 	BIZET 	Georges 	française
+44 	CHOSTAKOVITCH 	Dimitri 	russe
+45 	COUPERIN 	François 	française
+46 	HAYDN 	Joseph 	allemande
+47 	MOZART 	Wolfgang Amadeus 	autrichienne
+48 	MAHLER 	Gustav 	autrichienne
+49 	PROKOFIEV 	Serge 	russe
+50 	SCHUBERT 	Franz 	allemande
+51 	STRAVINSKY 	Igor 	russe
+52 	LAGARDE 	André 	française
+53 	MICHARD 	Laurent 	française
+54 	BIET 	Christian 	française
+55 	BRIGHELLI 	Jean-Paul 	française
+56 	RISPAIL 	Jean-Luc 	française
+57 	ITRAM 	Jean 	française
+59 	BAUDELAIRE 	Charles 	française
+60 	DUMAS 	Alexandre 	française
+61 	LEPELLETIER 	Charles 	française
+62 	DUMONT 	Robert 	française
+63 	GRANSART 	Louis 	française
+64 	ALLEN 	Woody 	américaine
+65 	TAVERNIER 	Bertrand 	française
+66 	HICKOX 	Douglas 	américaine
+67 	DUVUVIER 	Julien 	française
+69 	COLTRANE 	John 	américaine
+70 	BERRIEN 	Jean-Yves 	française
+71 	DA POZZO 	Pierre 	française
+72 	DICK 	Phillip 	américaine
+73 	TRUMBO 	Dalton 	canadienne
+74 	QUIGNARD 	Pascal 	française
+75 	ZEMECKIS 	Robert 	américaine
+78 	VERNE 	Jules 	française
+79 	TRUMBO 	John 	canadienne
+58 	MOLIERE 	  	française
+77 	RAMEAU 	Jean-Philippe 	française
+80 	CORNEILLE 	Pierre 	française
+
+
+R2
+BALZAC
+BOILEAU
+VILLON
+RABELAIS
+du BELLAY
+MONTAIGNE
+RONSARD
+CORNEILLE
+DESCARTES
+LA FONTAINE
+PASCAL
+RACINE
+RAMEAU
+ROUSSEAU
+LAMARTINE
+ALLEN
+HUGO
+GAUTIER
+MAUPASSANT
+RIMBAUD
+VERNE
+ALLEN
+APOLLINAIRE
+PEGUY
+VALERY
+ARAGON
+ELUARD
+COCTEAU
+PAGNOL
+ROMAINS
+MALRAUX
+PREVERT
+MERLE
+YOURCENAR
+BIZET
+COUPERIN
+LAGARDE
+MICHARD
+BIET
+BRIGHELLI
+RISPAIL
+ITRAM
+BAUDELAIRE
+DUMAS
+LEPELLETIER
+DUMONT
+GRANSART
+TAVERNIER
+DUVUVIER
+BERRIEN
+DA POZZO
+QUIGNARD
+VERNE
+MOLIERE
+RAMEAU
+CORNEILLE
+
+
+
+R3
+italienne
+britannique
+française
+américaine
+allemande
+autrichienne
+canadienne
+russe
+
+
+
+R4
+MACHIAVEL
+MONTAIGNE
+MAUPASSANT
+MALRAUX
+MERLE
+MOZART
+MAHLER
+MICHARD
+MOLIERE
+
+
+R5
+Je n_ay plus que les os
+Les Précieuses ridicules
+les trois Mousquetaires
+les Misérables
+Voyelles
+Alice au Pays des Merveilles
+Tous les matins du monde 
+
+
+
+R6
+18
+20
+
+
+R7
+LAMBERSART
+BAISIEUX
+LEERS
+ST ANDRE
+LEZENNES
+PONT-A-MARCQ
+BONDUES
+ROUBAIX
+LILLE
+LOMME
+HEM
+BETHUNE
+ERQUINGHEM-LYS
+CROIX
+WASQUEHAL
+HELLEMMES
+TOURCOING
+RONCHIN
+VILLENEUVE D_ASCQ
+
+
+R8
+25 	CANLERS 	MAXIME 	14, rue Gombert 	59800 	LILLE 	O
+26 	REGNAULT 	YVES 	2, rue de L_orphelinat 	59000 	LILLE 	O
+27 	PERROCHON 	MARTINE 	92, rue des Stations 	59000 	LILLE 	O
+28 	MARTIN 	MARC 	39, rue d_Arras 	59000 	LILLE 	O
+29 	RAPP 	ALFREDE 	13, rue d_Antin 	59800 	LILLE 	N
+30 	MONET 	ARTHUR 	142, rue Barthélémy Delespaul 	59000 	LILLE 	O
+31 	MATTES 	GERARD 	49, rue de la Louvière 	59800 	LILLE 	O
+32 	PRADIER 	ARMAND 	15, Pl du Maréchal Leclerc 	59800 	LILLE 	O
+33 	FIVET 	JOSEPH 	224, rue Nationale 	59000 	LILLE 	N
+34 	DUPEU 	ANDRE 	1, rue de la Riviérette 	59800 	LILLE 	O
+58 	HOCHART 	JEAN-MARIE 	15, rue de l_Orphelinat 	59000 	LILLE 	O
+59 	ROUSSEl 	OLIVIER 	Rue de la Thèse 	59000
+LILLE 	O
+
+
+
+
+R9
+4 	MACHIAVEL 	Nicolas 	italienne
+14 	VIVALDI 	Antonio 	italienne
+
+
+
+R10
+16 	le Misanthrope
+47 	Forrest Gump
+
+
+R11
+ALLEN 	Emile
+ALLEN 	François-René
+ALLEN 	Woody
+APOLLINAIRE 	Guillaume
+ARAGON 	Louis
+BACH 	Jean-Sebastien
+BALZAC 	Honoré de
+BAUDELAIRE 	Charles
+BERRIEN 	Jean-Yves
+BIET 	Christian
+BIZET 	Georges
+BOILEAU 	Pierre
+BRIGHELLI 	Jean-Paul
+CAROLL 	Lewis
+CHOSTAKOVITCH 	Dimitri
+COCTEAU 	Jean
+COLTRANE 	John
+CORNEILLE 	Pierre
+COUPERIN 	François
+DA POZZO 	Pierre
+DESCARTES 	René
+DICK 	Phillip
+du BELLAY 	Joachim
+DUMAS 	Alexandre
+
+etc...
+
+
+R12
+LAMBERSART 	6
+BAISIEUX 	1
+LEERS 	1
+ST ANDRE 	2
+LEZENNES 	1
+PONT-A-MARCQ 	1
+BONDUES 	1
+ROUBAIX 	5
+LILLE 	12
+LOMME 	2
+HEM 	1
+BETHUNE 	1
+ERQUINGHEM-LYS 	1
+CROIX 	2
+WASQUEHAL 	2
+HELLEMMES 	5
+TOURCOING 	2
+RONCHIN 	5
+VILLENEUVE D_ASCQ 	3
+
+
+R13
+1220,3
+
+
+R14
+85,4
+
+R15
+SCHMIDT
+DUPONT
+LUCAS
+WOLNIEWICZ
+DUBOIS
+DUMONT
+DECONNINCK
+DAILLY
+LEBLANC
+TENZA
+LALET
+LECOMPTE
+NGUYEN
+SCHMIDT
+LAMAND
+FIEVET
+DUPONT
+DOYEN
+
+
+
+R16
+CANLERS 	 2
+SCHMIDT 	2
+MARTIN 	3
+CARRE 	2
+DUPONT 	2
+
+
+Opérateurs ensemblistes
+R17
+Adieu, belle Cassandre
+Alcools
+Britannicus
+Bérénice
+Comme on passe en été le torrent
+Correspondance
+Heureux qui comme Ulysse
+Horace
+Je n_ay plus que les os
+Knock
+L_Albatros
+L_Ecole des femmes
+L_invitation au Voyage
+La Chanson du Mal-Aimé
+La Vie Antérieure
+Le Bateau Ivre
+Le Cid
+Le Lac
+Le Misanthrope
+Le Pont mirabeau
+Le testament
+Les Amours
+Les Antiquités de Rome
+Les Fleurs du Mal
+Les Odes
+Les Précieuses ridicules
+Les regrets
+Marcher d_un grave pas
+Méditations Poétiques
+Phèdre
+Poésies choisies de Ronsard
+Sonnets pour Hélène
+Tartuffe
+Théatre de Molière
+Théatre de Racine
+Topaze
+Voyelles
+
+
+R18
+Au Bonheur des Dames
+Bel Ami
+En nos vertes années
+Eugénie-Grandet
+Fortune de France
+Gargantua
+Germinal
+Julie ou la Nouvelle Héloïse
+La Peau de Chagrin
+La mort est mon métier
+Les Hommes de bonne volonté
+Marius
+Notre-Dame de Paris
+Pantagruel
+Paris ma bonne ville
+Vingt ans après
+Week-End à Zuydcoote
+l_Argent
+l_Espoir
+la Bête Humaine
+la Cousine Bette
+la Rabouilleuse
+le Horla
+le Père Goriot 
+le Vicomte de Bragelonne
+les Misérables
+les trois Mousquetaires
+
+
+
+
+
+R19
+Adieu, belle Cassandre
+Alcools
+Britannicus
+Bérénice
+Comme on passe en été le torrent
+Confessions
+Correspondance
+Essais
+Heureux qui comme Ulysse
+Horace
+Je n_ay plus que les os
+Knock
+L_Albatros
+L_Ecole des femmes
+L_invitation au Voyage
+La Chanson du Mal-Aimé
+La Vie Antérieure
+Le Bateau Ivre
+Le Cid
+Le Lac
+Le Misanthrope
+Le Pont mirabeau
+Le testament
+Les Amours 
+Les Antiquités de Rome
+Les Fleurs du Mal
+Les Odes
+Les Passions de l_âme
+Les Pensées
+Les Précieuses ridicules
+Les regrets
+Marcher d_un grave pas
+Moyen-Age
+Méditations Métaphysiques
+Méditations Poétiques
+Phèdre
+Sonnets pour Hélène
+Tartuffe
+Topaze
+Voyelles
+XVI
+XVII
+XVIII
+
+
+Requetes avec jointures
+R20
+Gargantua
+Pantagruel
+Julie ou la Nouvelle Héloïse
+La Peau de Chagrin
+le Père Goriot
+Eugénie-Grandet
+la Rabouilleuse
+la Cousine Bette
+les trois Mousquetaires
+le Vicomte de Bragelonne
+Vingt ans après
+Notre-Dame de Paris
+les Misérables
+le Horla
+Bel Ami
+Germinal
+Au Bonheur des Dames
+la Bête Humaine
+l_Argent
+Marius
+Les Hommes de bonne volonté
+l_Espoir
+Week-End à Zuydcoote
+La mort est mon métier
+Fortune de France
+En nos vertes années
+
+
+
+R21
+Le testament
+Les regrets
+Heureux qui comme Ulysse
+Les Antiquités de Rome
+Comme on passe en été le torrent
+Marcher d_un grave pas
+L_Albatros
+Correspondance
+Les Fleurs du Mal
+L_invitation au Voyage
+La Vie Antérieure
+L_Albatros
+Correspondance
+Les Fleurs du Mal
+L_invitation au Voyage
+La Vie Antérieure
+L_Albatros
+Correspondance
+Les Fleurs du Mal
+L_invitation au Voyage
+La Vie Antérieure
+L_Albatros
+Correspondance
+Les Fleurs du Mal
+L_invitation au Voyage
+La Vie Antérieure
+Le testament
+Le Prince
+Gargantua
+Pantagruel
+Les regrets
+Heureux qui comme Ulysse
+Comme on passe en été le torrent
+Marcher d_un grave pas
+Les Odes
+Les Amours
+Je n_ay plus que les os
+Sonnets pour Hélène
+Adieu, belle Cassandre
+Essais
+Le Cid
+Horace
+Les Passions de l_âme
+Méditations Métaphysiques
+L_Ecole des femmes
+Les Précieuses ridicules
+Tartuffe
+Le Misanthrope
+Les Pensées
+Phèdre
+Bérénice
+Britannicus
+Lettres Persanes
+l_Esprit des lois
+Confessions
+Julie ou la Nouvelle Héloïse
+Candide
+Zadig ou la Destinée
+Traité sur la Tolérance
+Méditations Poétiques
+Le Lac
+le Père Goriot
+Eugénie-Grandet
+la Rabouilleuse
+les trois Mousquetaires
+Vingt ans après
+Notre-Dame de Paris
+La Chartreuse de Parme
+L_Albatros
+Correspondance
+L_invitation au Voyage
+le Horla
+Bel Ami
+Le Bateau Ivre
+Germinal
+Au Bonheur des Dames
+l_Argent
+Alcools
+La Chanson du Mal-Aimé
+Topaze
+Marius
+Knock
+Les Hommes de bonne volonté
+l_Espoir
+Le testament
+Heureux qui comme Ulysse
+Comme on passe en été le torrent
+Marcher d_un grave pas
+Je n_ay plus que les os
+Adieu, belle Cassandre
+Essais
+Le Lac
+L_Albatros
+L_invitation au Voyage
+Voyelles
+Le Bateau Ivre
+Phèdre
+Bérénice
+Britannicus
+Les Odes
+Les Amours
+Je n_ay plus que les os
+Sonnets pour Hélène
+Adieu, belle Cassandre
+L_Ecole des femmes
+Les Précieuses ridicules
+Tartuffe
+Le Misanthrope
+Une petite musique de nuit
+Divertimento K138 
+
+
+
+R22
+Poésies complètes de François Villon 	 1 	 2 	43VIL 	moyen
+Gargantua 	4 	1 	18AB 	moyen
+Les Odes 	7 	1 	20RON 	abimé
+Les Odes 	7 	2 	20RON 	abimé
+Sonnets pour Hélène 	8 	1 	20RON 	moyen
+Tartuffe 	13 	1 	24MOL 	abimé
+Tartuffe 	15 	1 	24MOL 	moyen
+Tartuffe 	15 	2 	24MOL 	moyen
+les Fleurs du mal 	19 	1 	32RIM 	abimé
+Les Fleurs du Mal 	20 	1 	32RIM 	moyen
+Les fleurs du mal 	21 	1 	32RIM 	moyen
+XVIIIème Siècle 	29 	2 	86LMI 	moyen
+XIXème Siècle 	30 	2 	86LMI 	abimé
+XVII-XVIII 	33 	1 	88BBR 	moyen
+XVII-XVIII 	33 	2 	88BBR 	abimé
+XIXème 	34 	1 	88BBR 	moyen
+XIXème 	34 	2 	88BBR 	abimé
+XIXème 	34 	3 	88BBR 	abimé
+XXème 	35 	1 	88BBR 	abimé
+Petite musique de nuit et Divertimentos 	44 	2 	127MOZ 	moyen
+Annie Hall 	46 	1 	232ALL 	abimé
+Annie Hall 	46 	2 	232ALL 	abimé
+Forrest Gump 	47 	2 	221ZEM 	moyen
+Anna Karénine 	49 	1 	218DUV 	moyen
+Anna Karénine 	 49 	 2 	218DUV 	abimé
+Histoire de l_informatique 	53 	1 	92BER 	abimé
+Histoire de l_informatique 	53 	2 	92BER 	abimé
+Aide-mémoire d_unix 	54 	1 	92DAP 	moyen
+Johnny s_en va t-en guerre 	56 	1 	77TRU 	moyen
+Le salon du Wurtemberg 	57 	1 	66QUI 	abimé
+
+R23
+626
+
+
+
+R24
+LAMBERSART 	 90
+LEERS 	15
+ST ANDRE 	30
+LEZENNES 	15
+PONT-A-MARCQ 	15
+ROUBAIX 	40
+LILLE 	138
+LOMME 	15
+HEM 	15
+BETHUNE 	20
+ERQUINGHEM-LYS 	15
+CROIX 	10
+WASQUEHAL 	20
+HELLEMMES 	48
+TOURCOING 	20
+RONCHIN 	75
+VILLENEUVE D_ASCQ 	45
+
+
+R25
+Autobiographie 	française 	Confessions
+Essai 	française 	Les Pensées
+Essai 	française 	Méditations Métaphysiques
+Essai 	française 	Les Passions de l_âme
+Essai 	française 	Essais
+Essai 	italienne 	Le Prince
+Manuel 	française 	XVIII
+Manuel 	française 	XVII
+Manuel 	française 	XVII
+Manuel 	française 	XVI
+Manuel 	française 	XVI
+Manuel 	française 	Moyen-Age
+Manuel 	française 	XVIII
+Manuel 	française 	Moyen-Age
+Poésie 	française 	Le testament
+Poésie 	française 	Les regrets
+Poésie 	française 	Heureux qui comme Ulysse
+Poésie 	française 	Les Antiquités de Rome
+Poésie 	française 	Comme on passe en été le torrent
+Poésie 	française 	Marcher d_un grave pas
+Poésie 	française 	Les Odes
+Poésie 	française 	Les Amours
+Poésie 	française 	Je n_ay plus que les os
+Poésie 	française 	Sonnets pour Hélène
+Poésie 	française 	Adieu, belle Cassandre
+Poésie 	française 	Méditations Poétiques
+Poésie 	française 	Le Lac
+Poésie 	française 	L_Albatros
+Poésie 	française 	Correspondance
+Poésie 	française 	Les Fleurs du Mal
+Poésie 	française 	L_invitation au Voyage
+Poésie 	française 	La Vie Antérieure
+Poésie 	française 	Voyelles
+Poésie 	française 	Le Bateau Ivre
+Poésie 	française 	Alcools
+Poésie 	française 	Le Pont mirabeau
+Poésie 	française 	La Chanson du Mal-Aimé
+Roman 	britannique 	Bilbo le Hobbit
+Roman 	britannique 	De l_Autre Côté du Miroir
+Roman 	française 	Gargantua
+Roman 	française 	Pantagruel
+Roman 	française 	Paris ma bonne ville
+Roman 	française 	En nos vertes années
+Roman 	française 	Fortune de France
+Roman 	française 	La mort est mon métier
+Roman 	française 	Week-End à Zuydcoote
+Roman 	française 	l_Espoir
+Roman 	française 	Les Hommes de bonne volonté
+Roman 	française 	Marius
+Roman 	française 	l_Argent
+Roman 	française 	la Bête Humaine
+Roman 	française 	Julie ou la Nouvelle Héloïse
+Roman 	française 	La Peau de Chagrin
+Roman 	française 	le Père Goriot
+Roman 	française 	Eugénie-Grandet
+Roman 	française 	la Rabouilleuse
+Roman 	française 	la Cousine Bette
+Roman 	française 	les trois Mousquetaires
+Roman 	française 	le Vicomte de Bragelonne
+Roman 	française 	Vingt ans après
+Roman 	française 	Notre-Dame de Paris
+Roman 	française 	les Misérables
+Roman 	française 	le Horla
+Roman 	française 	Bel Ami
+Roman 	française 	Germinal
+Roman 	française 	Au Bonheur des Dames
+Théatre 	française 	Topaze
+Théatre 	française 	Knock
+Théatre 	française 	Le Cid
+Théatre 	française 	Britannicus
+Théatre 	française 	Bérénice
+Théatre 	française 	Horace
+Théatre 	française 	Le Misanthrope
+Théatre 	française 	Tartuffe
+Théatre 	française 	Les Précieuses ridicules
+Théatre 	française 	L_Ecole des femmes
+Théatre 	française 	Phèdre
+
+
+R26
+312,8
+
+
+
+R27
+Les Odes
+Le salon du Wurtemberg
+Histoire de l_informatique
+XVII-XVIII
+Tartuffe
+XIXème
+Anna Karénine
+Annie Hall
+les Fleurs du mal
+XXème
+XIXème Siècle
+
+
+
+R28
+10,2125
+
+
+
+R29
+9
+
+
+
+R30
+BORDAS 	 2 	 3
+FLAMMARION 	5 	5
+GALLIMARD 	5 	5
+GARNIER-FLAMMARION 	4 	4
+J_AI LU 	1 	1
+LAROUSSE 	4 	4
+PLON 	3 	3
+SEUIL 	2 	2
+
+
+
+R31
+ANGEL RECORDS 	 27,1
+LAROUSSE 	26,4
+GARNIER 	21,4
+HACHETTE 	28,1
+
+
+
+R32
+Fortune de France : En mes vertes années
+
+
+
+R33
+SCHMIDT 	ANDRE 	DECONNINCK 	HERVE
+SCHMIDT 	ANDRE 	DAILLY 	CLAUDE
+SCHMIDT 	ANDRE 	LEBLANC 	CATHERINE
+SCHMIDT 	ANDRE 	DURAND 	SYLVIE
+SCHMIDT 	ANDRE 	FIEVET 	BRUNO
+MARTIN 	ALAIN 	DUPONT 	ERIC
+MARTIN 	ALAIN 	THERY 	GERARD
+MARTIN 	ALAIN 	WOLNIEWICZ 	IRENA
+MARTIN 	ALAIN 	QUINTARD 	ANDRE
+DUPONT 	ERIC 	THERY 	GERARD
+DUPONT 	ERIC 	WOLNIEWICZ 	IRENA
+DUPONT 	ERIC 	QUINTARD 	ANDRE
+LUCAS 	ANNIE 	LECLERCQ 	FREDERIC
+THERY 	GERARD 	WOLNIEWICZ 	IRENA
+THERY 	GERARD 	QUINTARD 	ANDRE
+WOLNIEWICZ 	IRENA 	QUINTARD 	ANDRE
+DUBOIS 	HERVE 	MORVAN 	JOSEPH
+DECONNINCK 	HERVE 	DAILLY 	CLAUDE
+DECONNINCK 	HERVE 	LEBLANC 	CATHERINE
+DECONNINCK 	HERVE 	DURAND 	SYLVIE
+DECONNINCK 	HERVE 	FIEVET 	BRUNO
+SIREUIL 	CORINNE 	SOLAGNA 	LOUIS
+DAILLY 	CLAUDE 	LEBLANC 	CATHERINE
+DAILLY 	CLAUDE 	DURAND 	SYLVIE
+DAILLY 	CLAUDE 	FIEVET 	BRUNO
+TRELCAT 	LEON 	TENZA 	EMMANUELLE
+LEBLANC 	CATHERINE 	DURAND 	SYLVIE
+LEBLANC 	CATHERINE 	FIEVET 	BRUNO
+CASTELAIN 	ANDRE 	POLLET 	PHILIPPE
+CASTELAIN 	ANDRE 	CARRE 	STEPHANE
+CASTELAIN 	ANDRE 	MARTINEZ 	ANNA
+CASTELAIN 	ANDRE 	MARTIN 	PATRICK
+POLLET 	PHILIPPE 	CARRE 	STEPHANE
+POLLET 	PHILIPPE 	MARTINEZ 	ANNA
+POLLET 	PHILIPPE 	MARTIN 	PATRICK
+CARRE 	STEPHANE 	MARTINEZ 	ANNA
+CARRE 	STEPHANE 	MARTIN 	PATRICK
+CARRE 	JEANNINE 	LALET 	PIERRE
+CARRE 	JEANNINE 	LEMAIRE 	BEATRICE
+CARRE 	JEANNINE 	CANLERS 	JULIA
+CARRE 	JEANNINE 	GRIS 	MICHEL
+LALET 	PIERRE 	LEMAIRE 	BEATRICE
+LALET 	PIERRE 	CANLERS 	JULIA
+LALET 	PIERRE 	GRIS 	MICHEL
+CANLERS 	MAXIME 	REGNAULT 	YVES
+CANLERS 	MAXIME 	PERROCHON 	MARTINE
+CANLERS 	MAXIME 	MARTIN 	MARC
+CANLERS 	MAXIME 	RAPP 	ALFREDE
+CANLERS 	MAXIME 	MONET 	ARTHUR
+CANLERS 	MAXIME 	MATTES 	GERARD
+CANLERS 	MAXIME 	PRADIER 	ARMAND
+CANLERS 	MAXIME 	FIVET 	JOSEPH
+CANLERS 	MAXIME 	DUPEU 	ANDRE
+CANLERS 	MAXIME 	HOCHART 	JEAN-MARIE
+CANLERS 	MAXIME 	ROUSSEl 	OLIVIER
+REGNAULT 	YVES 	PERROCHON 	MARTINE
+REGNAULT 	YVES 	MARTIN 	MARC
+REGNAULT 	YVES 	RAPP 	ALFREDE
+REGNAULT 	YVES 	MONET 	ARTHUR
+REGNAULT 	YVES 	MATTES 	GERARD
+REGNAULT 	YVES 	PRADIER 	ARMAND
+REGNAULT 	YVES 	FIVET 	JOSEPH
+REGNAULT 	YVES 	DUPEU 	ANDRE
+REGNAULT 	YVES 	HOCHART 	JEAN-MARIE
+REGNAULT 	YVES 	ROUSSEl 	OLIVIER
+PERROCHON 	MARTINE 	MARTIN 	MARC
+PERROCHON 	MARTINE 	RAPP 	ALFREDE
+PERROCHON 	MARTINE 	MONET 	ARTHUR
+PERROCHON 	MARTINE 	MATTES 	GERARD
+PERROCHON 	MARTINE 	PRADIER 	ARMAND
+PERROCHON 	MARTINE 	FIVET 	JOSEPH
+PERROCHON 	MARTINE 	DUPEU 	ANDRE
+PERROCHON 	MARTINE 	HOCHART 	JEAN-MARIE
+PERROCHON 	MARTINE 	ROUSSEl 	OLIVIER
+MARTIN 	MARC 	RAPP 	ALFREDE
+MARTIN 	MARC 	MONET 	ARTHUR
+MARTIN 	MARC 	MATTES 	GERARD
+MARTIN 	MARC 	PRADIER 	ARMAND
+MARTIN 	MARC 	FIVET 	JOSEPH
+MARTIN 	MARC 	DUPEU 	ANDRE
+MARTIN 	MARC 	HOCHART 	JEAN-MARIE
+MARTIN 	MARC 	ROUSSEl 	OLIVIER
+RAPP 	ALFREDE 	MONET 	ARTHUR
+RAPP 	ALFREDE 	MATTES 	GERARD
+RAPP 	ALFREDE 	PRADIER 	ARMAND
+RAPP 	ALFREDE 	FIVET 	JOSEPH
+RAPP 	ALFREDE 	DUPEU 	ANDRE
+RAPP 	ALFREDE 	HOCHART 	JEAN-MARIE
+RAPP 	ALFREDE 	ROUSSEl 	OLIVIER
+MONET 	ARTHUR 	MATTES 	GERARD
+MONET 	ARTHUR 	PRADIER 	ARMAND
+MONET 	ARTHUR 	FIVET 	JOSEPH
+MONET 	ARTHUR 	DUPEU 	ANDRE
+MONET 	ARTHUR 	HOCHART 	JEAN-MARIE
+MONET 	ARTHUR 	ROUSSEl 	OLIVIER
+MATTES 	GERARD 	PRADIER 	ARMAND
+MATTES 	GERARD 	FIVET 	JOSEPH
+MATTES 	GERARD 	DUPEU 	ANDRE
+MATTES 	GERARD 	HOCHART 	JEAN-MARIE
+MATTES 	GERARD 	ROUSSEl 	OLIVIER
+PRADIER 	ARMAND 	FIVET 	JOSEPH
+PRADIER 	ARMAND 	DUPEU 	ANDRE
+PRADIER 	ARMAND 	HOCHART 	JEAN-MARIE
+PRADIER 	ARMAND 	ROUSSEl 	OLIVIER
+FIVET 	JOSEPH 	DUPEU 	ANDRE
+FIVET 	JOSEPH 	HOCHART 	JEAN-MARIE
+FIVET 	JOSEPH 	ROUSSEl 	OLIVIER
+DUPEU 	ANDRE 	HOCHART 	JEAN-MARIE
+DUPEU 	ANDRE 	ROUSSEl 	OLIVIER
+LEMAIRE 	BEATRICE 	CANLERS 	JULIA
+LEMAIRE 	BEATRICE 	GRIS 	MICHEL
+CANLERS 	JULIA 	GRIS 	MICHEL
+MARTINEZ 	ANNA 	MARTIN 	PATRICK
+DURAND 	SYLVIE 	FIEVET 	BRUNO
+NGUYEN 	BRUNO 	LEGRAND 	ALAIN
+NGUYEN 	BRUNO 	FREMMION 	GEORGES
+LEGRAND 	ALAIN 	FREMMION 	GEORGES
+LAMAND 	STEPHANE 	DUPONT 	ROGER
+HOCHART 	JEAN-MARIE 	ROUSSEl 	OLIVIER
+
+
+
+R34
+215,4 	39 	41 	43
+217,7 	41 	42 	43
+215,7 	41 	43 	44
+220,3 	41 	43 	52
+
+
+
+R35
+PLON
+FLAMMARION
+GARNIER-FLAMMARION
+
+
+
+R36
+SIREUIL
+
+
+
+R37
+25 	37 	40,1
+29 	57 	40,9
+34 	57 	40,3
+35 	57 	40,9
+50 	58 	40,5
+2 	36 	41,7
+3 	49 	41,2
+9 	49 	40,7
+26 	36 	40,6
+26 	45 	40
+32 	33 	41,7
+1 	45 	41,1
+2 	37 	41,2
+8 	45 	40
+32 	55 	42
+1 	36 	41,7
+15 	49 	40
+24 	36 	40
+25 	45 	40
+26 	37 	40,1
+30 	57 	40,9
+1 	37 	41,2
+1 	50 	40,2
+2 	45 	41,1
+12 	 49 	 41,4
+13 	36 	41,5
+13 	37 	41
+13 	45 	40,9
+14 	49 	40
+25 	36 	40,6
+28 	57 	40,9
+32 	38 	42
+37 	58 	41,5
+45 	58 	41,4
+2 	50 	40,2
+4 	50 	40,8
+6 	49 	41,2
+13 	50 	40
+20 	56 	40
+56 	57 	41,4
+4 	37 	41,8
+4 	40 	40
+4 	45 	41,7
+8 	36 	40,6
+8 	37 	40,1
+20 	31 	40,9
+27 	32 	42
+36 	58 	42
+
+
+Sous-requêtes corrélatives
+RR38
+DUPONT
+LUCAS
+WOLNIEWICZ
+DUBOIS
+DECONNINCK
+DAILLY
+LEBLANC
+TENZA
+CASTELAIN
+LALET
+MONET
+MATTES
+FIVET
+DUPEU
+LECOMPTE
+SOLAGNA
+NGUYEN
+LAMAND
+FIEVET
+DOYEN
+
+
+
+R39
+Aide-mémoire d_Unix
+Histoire de l_informatique
+Forrest Gump
+Anthologie de la Poésie Française
+XVII-XVIII
+XVI-XVII
+XIX ème
+Tous les matins du monde
+Théatre de Racine
+Théatre de Molière
+Le salon de Wurtemberg
+Poésies choisies de Ronsard
+Paris ma bonne ville
+En nos vertes années
+Fortune de France
+Annie Hall
+Brannigan
+XX
+XVI
+XVII
+XVIII
+XIX
+Moyen-Age
+Ubik
+La mort est mon métier
+Week-End à Zuydcoote
+Anna Karénine
+Concerto/violoncelle op 126
+Johnny s_en va t-en guerre
+l_Espoir
+Concerto/violoncelle op 107
+Bilbo le Hobbit
+Alexandre Nevski
+Les Hommes de bonne volonté
+Marius
+Topaze
+Knock
+Le Pont mirabeau
+Alcools
+La Chanson du Mal-Aimé
+l_Argent
+la Bête Humaine
+le Horla
+Bel Ami
+Germinal
+Voyelles
+Au Bonheur des Dames
+De l_Autre Côté du Miroir
+Le Bateau Ivre
+Alice au Pays des Merveilles
+les Misérables
+L_Albatros
+Correspondance
+L_invitation au Voyage
+La Vie Antérieure
+Les Fleurs du Mal
+la Cousine Bette
+la Rabouilleuse
+La Chartreuse de Parme
+le Père Goriot
+Eugénie-Grandet
+Notre-Dame de Paris
+La Peau de Chagrin
+le Rouge et le Noir
+
+
+
+R40
+Le testament
+Le Prince
+Gargantua
+Pantagruel
+Les regrets
+Heureux qui comme Ulysse
+Les Antiquités de Rome
+Comme on passe en été le torrent
+Marcher d_un grave pas
+Les Odes
+Les Amours
+Je n_ay plus que les os
+Sonnets pour Hélène
+Adieu, belle Cassandre
+Essais
+Le Cid
+Horace
+Les Passions de l_âme
+Méditations Métaphysiques
+L_Ecole des femmes
+Les Précieuses ridicules
+Tartuffe
+Le Misanthrope
+Les Pensées
+Phèdre
+Bérénice
+Britannicus
+Lettres Persanes
+l_Esprit des lois
+Confessions
+Julie ou la Nouvelle Héloïse
+Candide
+Zadig ou la Destinée
+Traité sur la Tolérance
+Divertimento K136
+Divertimento K137
+Divertimento K138
+La Création
+Une petite musique de nuit
+l_Art de la Fugue
+le Clavier bien tempéré
+
+
+R41
+Méditations Poétiques
+Le Lac
+
+
+
+R42
+Joseph Haydn : La Création
+
+
+
+
+R43
+SCHMIDT
+MARTIN
+DUPONT
+LUCAS
+THERY
+WOLNIEWICZ
+DUBOIS
+WALBERGUE
+MORVAN
+DUMONT
+DECONNINCK
+DAILLY
+TRELCAT
+LECLERCQ
+LEBLANC
+TENZA
+QUINTARD
+CASTELAIN
+POLLET
+CARRE
+LAMBRAY
+CARRE
+LALET
+CANLERS
+REGNAULT
+PERROCHON
+MARTIN
+RAPP
+MONET
+MATTES
+PRADIER
+FIVET
+DUPEU
+GUILLERMAIN
+LEMAIRE
+CANLERS
+MARTINEZ
+MARTIN
+LECOMPTE
+SOLAGNA
+DURAND
+NGUYEN
+LEGRAND
+FREMMION
+SCHMIDT
+GRIS
+LAMAND
+FIEVET
+DUPONT
+DOYEN
+RENOU
+HOCHART
+ROUSSEl
+
+
+
+R44
+2 	MARTIN
+3 	DUPONT
+4 	LUCAS
+6 	WOLNIEWICZ
+7 	DUBOIS
+8 	WALBERGUE
+9 	MORVAN
+11 	DECONNINCK
+13 	DAILLY
+14 	TRELCAT
+15 	LECLERCQ
+16 	LEBLANC
+17 	TENZA
+19 	CASTELAIN
+21 	CARRE
+22 	LAMBRAY
+24 	LALET
+26 	REGNAULT
+27 	PERROCHON
+28 	MARTIN
+29 	RAPP
+30 	MONET
+31 	MATTES
+32 	PRADIER
+33 	FIVET
+34 	DUPEU
+35 	GUILLERMAIN
+37 	CANLERS
+38 	MARTINEZ
+39 	MARTIN
+40 	LECOMPTE
+41 	SOLAGNA
+42 	DURAND
+43 	NGUYEN
+44 	LEGRAND
+45 	FREMMION
+48 	GRIS
+49 	LAMAND
+50 	FIEVET
+54 	DOYEN
+58 	HOCHART
+59 	ROUSSEl
+
+
+
+R45
+1 	Poésies complètes de François Villon
+2 	Le Prince
+4 	Gargantua
+5 	Pantagruel
+7 	Les Odes
+8 	Sonnets pour Hélène
+10 	L_école des femmes
+11 	L_école des femmes
+13 	Tartuffe
+17 	le Misanthrope
+18 	les Fleurs du Mal
+19 	les Fleurs du mal
+20 	Les Fleurs du Mal
+23 	La mort est mon métier
+24 	Fortune de France
+25 	Fortune de France : En mes vertes années
+26 	Fortune de France : Paris ma bonne ville
+27 	XVIème Siècle
+28 	XVIIème Siècle
+29 	XVIIIème Siècle
+30 	XIXème Siècle
+31 	XXème Siècle
+32 	XVI-XVII
+33 	XVII-XVIII
+34 	XIXème
+35 	XXème
+36 	Anthologie de la Poésie française
+37 	Théatre de Racine
+38 	Poésie choisie de Ronsard
+39 	L_Art de la Fugue
+40 	Théatre de Molière
+41 	Le Clavecin Bien Tempéré
+43 	Joseph Haydn : La Création
+44 	Petite musique de nuit et Divertimentos
+45 	Moyen-Age
+46 	Annie Hall
+48 	Brannigan
+49 	Anna Karénine
+50 	Ravi Shankar en concert
+51 	John Coltrane Quartet
+52 	Concertos pour violoncelle
+53 	Histoire de l_informatique
+54 	Aide-mémoire d_unix
+55 	Ubik
+56 	Johnny s_en va t-en guerre
+57 	Le salon du Wurtemberg
+58 	Tous les matins du monde
+42 	Alexandre Nevski - musique du film de S. Eisenstein
+
+
+
+
+R46
+ 7
+19
+35
+46
+53
+57
+53
+7
+33
+34
+34
+46
+49 
+
+
+R47
+QUINTARD
+SIREUIL
+SIREUIL
+LEMAIRE
+DUMONT
+POLLET
+SIREUIL
+RENOU
+THERY
+
+
+
+
+R48
+BALZAC
+BOILEAU
+VILLON
+MACHIAVEL
+RABELAIS
+MONTAIGNE
+CORNEILLE
+DESCARTES
+LA FONTAINE
+PASCAL
+RACINE
+VIVALDI
+RAMEAU
+ROUSSEAU
+LAMARTINE
+ALLEN
+HUGO
+GAUTIER
+MAUPASSANT
+VERNE
+ALLEN
+APOLLINAIRE
+PEGUY
+VALERY
+ARAGON
+ELUARD
+COCTEAU
+PAGNOL
+ROMAINS
+MALRAUX
+PREVERT
+MERLE
+TOLKIEN
+YOURCENAR
+CAROLL
+BACH
+BIZET
+CHOSTAKOVITCH
+COUPERIN
+HAYDN
+MOZART
+MAHLER
+PROKOFIEV
+SCHUBERT
+STRAVINSKY
+LAGARDE
+MICHARD
+BIET
+BRIGHELLI
+RISPAIL
+ITRAM
+MOLIERE
+BAUDELAIRE
+DUMAS
+LEPELLETIER
+DUMONT
+GRANSART
+ALLEN
+TAVERNIER
+HICKOX
+DUVUVIER
+COLTRANE
+BERRIEN
+DA POZZO
+DICK
+TRUMBO
+QUIGNARD
+ZEMECKIS
+RAMEAU
+TRUMBO
+
+
+
+Sous-requetes corrélatives
+R49
+20 	Les Fleurs du Mal
+19 	les Fleurs du mal
+4 	Gargantua
+8 	Sonnets pour Hélène
+26 	Fortune de France : Paris ma bonne ville
+25 	Fortune de France : En mes vertes années
+24 	Fortune de France
+17 	le Misanthrope
+13 	Tartuffe
+11 	L_école des femmes
+10 	L_école des femmes
+
+
+
+R50
+SCHMIDT
+LEMAIRE
+DUMONT
+THERY
+SCHMIDT
+CANLERS
+QUINTARD
+POLLET
+DUPONT
+SIREUIL
+SIREUIL
+SIREUIL
+RENOU
+CARRE 
+
+
+
+R51
+CANLERS
+SIREUIL
+SIREUIL
+SIREUIL
+SCHMIDT
+CARRE
+POLLET
+THERY
+QUINTARD
+LEMAIRE
+RENOU
+DUMONT
+DUPONT
+SCHMIDT
+
+
+
+Traitements de dates
+R52
+13/04/2007
+29/09/2009
+29/09/2009
+12/08/2009
+29/09/2009
+29/09/2009
+29/09/2009
+02/10/2009
+02/10/2009
+03/10/2009
+11/11/2009
+11/11/2009
+18/11/2009
+21/11/2009
+
+
+
+R53
+86LMI 	XIXème Siècle
+

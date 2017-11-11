@@ -1,0 +1,166 @@
+-- CORRECTION DU TP PL/SQL NUMERO 4
+
+-- fonction nbventes(vendeur, jourVente)
+
+create or replace function nbventes(vendeur number, jourVente char) return number is
+  nbv number;
+begin
+  select count(*) into nbv from ventes where numvendeur=vendeur and datevente=jourVente;
+  return nbv;
+end;
+
+-- test
+select nbventes(7,'05/09/2009') from dual;
+
+----------------------------------------------
+-- fonction valeur_vendue(vendeur, jourVente)
+
+create or replace function valeur_vendue(vendeur number, jourVente char) return number is
+  valeur number(10,2);
+begin
+  select sum(c.quantite*p.prixunit)  into valeur from
+   produits p, correspondance c, ventes v where
+   p.numprod=c.numprod and c.numvente=v.numvente
+   and v.numvendeur=vendeur and v.datevente=datevente;
+  return valeur;
+end;
+
+----------------------------------------------
+-- fonction valeur_stock(agence)
+
+create or replace function valeur_stock(agence char) return number is
+  valeur number(10,2);
+begin
+  select sum(s.quantite*p.prixunit) into valeur from 
+    stocks s, produits p where s.numprod=p.numprod
+     and s.refag=agence;
+  return valeur;
+end;
+
+----------------------------------------------
+-- fonction cout_projet(projet)
+
+create or replace function cout_projet(projet number) return number is
+  valeur number(10,2);
+begin
+  select sum(c.quantite*pd.prixunit) into valeur 
+    from produits pd, correspondance c, ventes vt, vendeurs vd, projets pr
+    where vt.numvendeur=vd.numvendeur and vd.agence=pr.agence 
+      and vt.numvente=c.numvente and c.numprod=pd.numprod and vt.numproj=projet;
+  return valeur;
+end;
+
+----------------------------------------------
+-- procédure nomenclature(piece)
+
+-- *******
+-- fonction d'indentation pour la présentation des résultats
+
+create or replace function espaces(n number) return char is
+  s varchar2(100) :='';
+begin
+  for i in 1..n loop 
+    s:=s||'_';
+  end loop;
+  return s;
+end;
+
+-- *******
+-- 1ère version utilisant le paquetage DBMS_OUTPUT
+
+create or replace procedure nomenclature(piece number, niveau number) is
+  des varchar2(100);
+  cursor cc is select * from composition where pere=piece;
+begin
+  DBMS_OUTPUT.ENABLE( 1000000 ) ;
+  if niveau=0 then
+    select designation  into des from produits where numprod=piece;
+    DBMS_OUTPUT.PUT_LINE(piece || ' ' || des); 
+  end if;
+  for cr in cc loop
+    if cr.numpiece is not null then
+      select cr.numpiece||' '||designation||' '|| cr.qte into des from produits where numprod=cr.numpiece;
+      DBMS_OUTPUT.PUT_LINE(espaces(niveau+1)||des);
+      commit;
+      if cc%found then 
+        nomenclature(cr.numpiece,niveau+1);
+      end if;
+    end if;
+  end loop;
+end;
+
+-- test
+set serveroutput on -- pour rendre le paquetage disponible
+
+execute nomenclature(100,0);
+
+-- *******
+-- 2de version si le paquetage disfonctionne
+
+
+create or replace procedure nomenclature(piece number, niveau number) is
+  des varchar2(100);
+  cursor cc is select * from composition where pere=piece;
+begin
+  if niveau=0 then
+    select designation  into des from produits where numprod=piece;
+    insert into resultats values(piece || ' ' || des);
+  end if;
+  for cr in cc loop
+    if cr.numpiece is not null then
+      select cr.numpiece||' '||designation||' '|| cr.qte into des from produits where numprod=cr.numpiece;
+      insert into resultats values(espaces(niveau+1)||des);
+      commit;
+      if cc%found then 
+        nomenclature(cr.numpiece,niveau+1);
+      end if;
+    end if;
+  end loop;
+end;
+
+-- Test
+create table resultats(result varchar(1000));
+
+execute nomenclature(100,0);
+
+select * from resultats
+
+
+----------------------------------------------
+-- Trigger de mise en majuscule du nom des employes
+
+create or replace trigger saisie_nom 
+  before insert on  employes for each row
+begin
+  :new.nom:=upper(:new.nom);
+end;
+
+-- la solution suivante est une
+--   moins bonne solution, surtout s'il existe déjà un trigger 
+--   se declenchant sur un  update
+
+create or replace trigger saisie_nom 
+  after insert on  employes for each row
+begin
+  update employes set nom=upper(nom) where numemp=:new.numemp;
+end;
+
+
+----------------------------------------------
+-- trigger de prise en compte d'une vente sur le capital de l'agence
+
+-- En fait, c'est la correspondance entre entre
+-- la vente et le produit qui declenche le trigger
+-- donc l'insertion dans correspondance 
+
+create or replace trigger crediter
+ after insert on  correspondance for each row
+declare
+  pu number(10,2);
+  ag char(3);
+begin
+  select prixunit into pu from produits where numprod=:new.numprod;
+  select vd.agence into ag from vendeurs vd, ventes vt where 
+      vd.numvendeur=vt.numvendeur and vt.numvente=:new.numvente;
+  update agences set capital=capital+pu*:new.quantite where refag=ag;
+end;
